@@ -1,0 +1,1 @@
+It is a software solution designed to streamline and automate the process of evaluating job applications. It leverages advanced technologies such as Artificial Intelligence (AI), Natural Language Processing (NLP), and Machine Learning (ML) to assess resumes against predefined criteria, saving recruiters time and effort.
